@@ -17,6 +17,6 @@ Push file to github (git push)
 
 Open file(s) in current directory by using the "code ." command
 
-Save git commit in text editor: type esc (depend); :wq (:=command; w=write(save); q=quit)
+Save git commit in text editor (VScode): cmd + enter 
 
 git repository is just a collection of git commit (all version of my code)
