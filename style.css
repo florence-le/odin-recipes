@@ -14,5 +14,30 @@
 .recipe-two,
 .recipe-three {
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-family: cursive, Courier, monospace;
+}
+
+.heading {
+    color: black;
+    font-size: 26px;
+    font-weight: 900;
+    font-family: cursive, 'Courier New', Courier, monospace;
+}
+
+.paragraph {
+    font-size: 15px;
+    font-weight:100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ingredient,
+.step {
+    font-size: 15px;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+    height: auto; width: 300;
 }
