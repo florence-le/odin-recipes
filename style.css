@@ -38,11 +38,16 @@
     padding: 2px;
 }
 
-.pre-intro {
-    display: inline-flex;
+.pre-intro, 
+.pre-ingredient,
+.pre-step {
     width: 1200px;
     margin-left: 20px;
 }
+
+.pre-intro {
+    display: inline-flex;
+}    
 
 .img {
     height: auto; width: 300;
