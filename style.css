@@ -38,6 +38,20 @@
     padding: 2px;
 }
 
+.pre-intro {
+    display: inline-flex;
+    width: 1200px;
+    margin-left: 20px;
+}
+
+.img {
+    height: auto; width: 300;
+}
+
+.intro {
+    margin-left: 30px;
+}
+
 .heading {
     color: black;
     font-size: 26px;
@@ -58,6 +72,3 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.img {
-    height: auto; width: 300;
-}
