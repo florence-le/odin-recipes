@@ -7,8 +7,10 @@
 }
 
 .main-list {
-    background-color: rgb(255, 237, 230);
-    
+    background-color: rgb(255, 235, 235);
+    width: 300px;
+    margin-top: -20px;
+    padding: 8px 40px;
 }
 
 .recipe-one,
@@ -17,6 +19,23 @@
     font-size: 20px;
     font-weight: 700;
     font-family: cursive, Courier, monospace;
+}
+
+.recipe-one {
+    background-color: rgb(255, 207, 214);
+    padding: 2px;
+    margin-bottom: 5px;
+}
+
+.recipe-two {
+    background-color: rgb(255, 207, 214);
+    padding: 2px;
+    margin-bottom: 5px;
+}
+
+.recipe-three {
+    background-color: rgb(255, 207, 214);
+    padding: 2px;
 }
 
 .heading {
